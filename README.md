@@ -1,5 +1,7 @@
 # Danganronpa 2 Mobile → Steam Save Converter
 
+# **DISCLAIMER: THIS PROGRAM WAS DEVELOPED USING AI**
+
 Experimental community tool for converting **Danganronpa 2 mobile** `savedata.tc` files into **Danganronpa 2 Steam** `savedata.vfs` candidates.
 
 This tool was built by comparing mobile and Steam save formats. It does **not** include game files, save files, copyrighted assets, or keys. It only transforms save files that the user provides.
