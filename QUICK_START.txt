@@ -1,0 +1,17 @@
+Danganronpa 2 Mobile -> Steam Save Converter Quick Start
+========================================================
+
+1. Install Python 3.10+.
+2. Put these files in this folder:
+     dr2_mobile_to_steam.py
+     savedata.tc
+     fresh_savedata.vfs
+3. Double-click DR2_Save_Converter_Wizard.bat on Windows.
+   Or run:
+     python dr2_mobile_to_steam.py auto savedata.tc fresh_savedata.vfs
+4. Open the generated output folder.
+5. Read READ_ME_FIRST_RESULTS.txt.
+6. Test .vfs files from try_first/ one at a time.
+7. To test a candidate, rename it to savedata.vfs in the Steam save folder.
+8. Back up saves and disable Steam Cloud before testing.
+

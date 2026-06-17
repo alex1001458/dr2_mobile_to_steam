@@ -1,0 +1,3 @@
+This is an unofficial community save conversion utility.
+It is not affiliated with, endorsed by, or supported by Spike Chunsoft, NIS America, Steam, Valve, or any platform holder.
+No game files, copyrighted assets, or user save files are included.
